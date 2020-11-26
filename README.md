@@ -1,16 +1,18 @@
-### Hi there 👋
+## Gerson Barros, pleasure 🖖🏻💻
 
-<!--
-**gbarros1994/gbarros1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About
+- 🔭 Currently working at <a target="_blank" href="http://www.m2n.com.br">M2N</a>
+- 🏠 Living in Sorocaba, SP - Brazil 🇧🇷
+- 🖥 I've been in the web development area for 5 years
 
-Here are some ideas to get you started:
+### Performance Stack
+- 🖥 Backend performance: PHP and NodeJS
+- 🎯 Frontend performance: VueJS and React
+- 📱 Mobile performance: React Native
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact
+- 📞 +55 (15) 99730-3725
+
+### Social networks
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/matheus-carvalho-83a68016a/)](https://www.linkedin.com/in/gerson-barros-446212158/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gersonalifer@gmail.com)](mailto:gersonalifer@gmail.com)
