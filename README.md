@@ -3,7 +3,7 @@
 ### About
 - 🔭 Currently working at <a target="_blank" href="http://www.m2n.com.br">M2N</a>
 - 🏠 Living in Sorocaba, SP - Brazil 🇧🇷
-- 🖥 I've been in the web development area for 5 years
+- 🖥 I've been in the web development area for 6 years
 
 ### Performance Stack
 - 🖥 Backend performance: PHP and NodeJS
