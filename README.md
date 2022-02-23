@@ -7,8 +7,8 @@
 
 ### Performance Stack
 - 🖥 Backend performance: PHP and NodeJS
-- 🎯 Frontend performance: VueJS and React
-- 📱 Mobile performance: React Native and Flutter
+- 🎯 Frontend performance: VueJS
+- 📱 Mobile performance: Flutter
 
 ### Contact
 - 📞 +55 (15) 99730-3725
