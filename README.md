@@ -1,10 +1,3 @@
-## Gerson Barros, pleasure 🖖🏻💻
-
-### About
-- 🔭 Currently working at The Enlighten Company
-- 🏠 Living in Sorocaba, SP - Brazil 🇧🇷
-- 🖥 I've been in the web development area for 6 years
-
 ### Performance Stack
 - 🖥 Backend performance: PHP and NodeJS
 - 🎯 Frontend performance: VueJS
